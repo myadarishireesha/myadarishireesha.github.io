@@ -1,8 +1,12 @@
 ---
-layout: post
-title: "My Bokeh Plot"
-date: 2024-03-29
+title: "Bokeh Plot 1"
+layout: default
+permalink: /plot1/
 ---
-Here is an interactive Bokeh plot:
 
-<iframe src="/assets/bokeh_plot.html" width="700" height="500"></iframe>
+# Interactive Bokeh Plot 1
+
+Here is the first Bokeh plot:
+
+<iframe src="/assets/bokeh_plot.html" width="800" height="600" frameborder="0"></iframe>
+

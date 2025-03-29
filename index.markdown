@@ -4,3 +4,12 @@
 
 layout: home
 ---
+---
+title: "Welcome to My Bokeh Plots"
+permalink: /
+---
+
+# Explore My Bokeh Plots
+
+- [Bokeh Plot 1](/plot1/)
+- [Bokeh Plot 2](/plot2/)
