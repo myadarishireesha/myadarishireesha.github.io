@@ -1,5 +1,5 @@
 ---
-title: "My Chart"
+title: "My Char"
 permalink: /plot/
 ---
 
