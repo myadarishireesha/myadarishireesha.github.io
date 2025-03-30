@@ -4,7 +4,6 @@ title: About
 permalink: /about/
 ---
 
-
 # Introduction
 
 Crime analysis is essential for understanding patterns, trends, and public safety concerns in urban areas. This project aims to provide a comprehensive, data-driven visualization of crime trends in San Francisco from 2014 to 2024. Our focus is on ten major crime categories, illustrating how crime rates have changed over time, identifying hotspots, and analyzing potential causes.
@@ -13,13 +12,13 @@ Crime analysis is essential for understanding patterns, trends, and public safet
 
 The goal of this project is to:
 
-Educate the public about crime trends in San Francisco.
+* Educate the public about crime trends in San Francisco.
 
-Help policymakers and law enforcement make data-informed decisions.
+* Help policymakers and law enforcement make data-informed decisions.
 
-Encourage transparency by providing interactive and easy-to-understand visualizations.
+* Encourage transparency by providing interactive and easy-to-understand visualizations.
 
-Engage researchers and data scientists in exploring crime-related insights.
+* Engage researchers and data scientists in exploring crime-related insights.
 
 # Data Sources
 
