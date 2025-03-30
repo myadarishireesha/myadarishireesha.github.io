@@ -20,9 +20,9 @@
 
 title: Website Created by Group 31
 emails:
-- s190030@dtu.dk
-- s2432300@dtu.dk
-- S241647@dtu.dk
+  - s190030@dtu.dk
+  - s243230@dtu.dk
+  - S241647@dtu.dk
 description: >- # this means to ignore newlines until "baseurl:"
   Explore interactive crime data visualizations for San Francisco from 2018 to 2025. 
   Analyze trends across 10 major crime categories with dynamic charts, heatmaps, 
