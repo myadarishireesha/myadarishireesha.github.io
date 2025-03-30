@@ -1,10 +1,10 @@
 ---
-title: "Bokeh Plot 1"
+title: "Bokeh Plot"
 layout: default
-permalink: /plot1/
+permalink: /plot/
 ---
 
-# Interactive Bokeh Plot 1
+# Interactive Bokeh Plot 
 
 Here is the first Bokeh plot:
 

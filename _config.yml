@@ -20,15 +20,16 @@
 
 title: Website Created by Group 9
 email: dsmyadari@gmail.com
+twitter_username: jekyllrb
+github_username:  myadarishireesha
+linkedin_username: shireeshamyadari
 description: >- # this means to ignore newlines until "baseurl:"
   Explore interactive crime data visualizations for San Francisco from 2018 to 2025. 
   Analyze trends across 10 major crime categories with dynamic charts, heatmaps, 
   and predictive insights. Stay informed and understand crime patterns in your city.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  myadarishireesha
-linkedin_username: shireeshamyadari
+
 
 # Build settings
 theme: minima
