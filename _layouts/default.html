@@ -1,7 +1,10 @@
+<main>
+  {{ content }}
+</main>
 <footer>
-    <ul>
-      {% for email in site.emails %}
-        <li><a href="mailto:{{ email }}">{{ email }}</a></li>
-      {% endfor %}
-    </ul>
-  </footer>
+  <ul>
+    {% for email in site.emails %}
+      <li><a href="mailto:{{ email }}">{{ email }}</a></li>
+    {% endfor %}
+  </ul>
+</footer>
