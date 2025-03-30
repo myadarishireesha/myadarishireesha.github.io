@@ -19,9 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Website Created by Group 9
-emails: 
-  - dsmyadari@gmail.com
-  - s190030@dtu.dk
+email: dsmyadari@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Explore interactive crime data visualizations for San Francisco from 2018 to 2025. 
   Analyze trends across 10 major crime categories with dynamic charts, heatmaps, 

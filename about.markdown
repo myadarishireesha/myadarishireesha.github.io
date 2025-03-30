@@ -33,15 +33,6 @@ We focus on the following 10 crimes:
 Wepon Laws,Prostitution, Robbery, Burglary, Assault, Drunkenness, Drug/narcotic, Trespass, Larceny/theft, Vandalism, Vehicle theft, Stolen property.
 
 
-# Contact Us
-
-You can reach us at the following email addresses:
-<ul>
-  {% for email in site.emails %}
-    <li><a href="mailto:{{ email }}">{{ email }}</a></li>
-  {% endfor %}
-</ul>
-
 <!--You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
 [minima](https://github.com/jekyll/minima)
