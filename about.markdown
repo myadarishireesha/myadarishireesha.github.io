@@ -1,8 +1,9 @@
 ---
 layout: page
-title: About San Francisco Crime Data Visualization Project
+title: About
 permalink: /about/
 ---
+
 
 # Introduction
 
