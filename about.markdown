@@ -1,16 +1,13 @@
 ---
 layout: page
-title: About
+title: About the San Francisco Crime Data Visualization Project
+
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-About the San Francisco Crime Data Visualization Project
-
 # Introduction
 
-Crime analysis is essential for understanding patterns, trends, and public safety concerns in urban areas. This project aims to provide a comprehensive, data-driven visualization of crime trends in San Francisco from 2018 to 2025. Our focus is on ten major crime categories, illustrating how crime rates have changed over time, identifying hotspots, and analyzing potential causes.
+Crime analysis is essential for understanding patterns, trends, and public safety concerns in urban areas. This project aims to provide a comprehensive, data-driven visualization of crime trends in San Francisco from 2014 to 2024. Our focus is on ten major crime categories, illustrating how crime rates have changed over time, identifying hotspots, and analyzing potential causes.
 
 # Purpose
 
@@ -31,10 +28,10 @@ The crime data used in this project is sourced from San Francisco Open Data Port
 
 # Crime Categories Analyzed
 
-We focus on the following 10 crimes:
+We focus on the following 10 crimes:WEAPON LAWS, PROSTITUTION, ROBBERY, BURGLARY, ASSAULT, DRUNKENNESS, DRUG/NARCOTIC, TRESPASS, LARCENY/THEFT', VANDALISM, VEHICLE THEFT, STOLEN PROPERTY.
 
 
-You can find the source code for Minima at GitHub:
+<!--You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
 [minima](https://github.com/jekyll/minima)
 
@@ -43,4 +40,4 @@ You can find the source code for Jekyll at GitHub:
 [jekyll](https://github.com/jekyll/jekyll)
 
 
-[jekyll-organization]: https://github.com/jekyll
+[jekyll-organization]: https://github.com/jekyll -->
