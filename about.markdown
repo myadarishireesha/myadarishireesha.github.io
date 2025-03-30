@@ -22,7 +22,7 @@ The goal of this project is to:
 
 # Data Sources
 
-The crime data used in this project is sourced from San Francisco Open Data Portal, which provides historical and real-time crime reports. 
+The crime data used in this project is sourced from [San Francisco Open Data Portal] https://datasf.org/opendata/, which provides historical and real-time crime reports. 
 
 
 # Crime Categories Analyzed
