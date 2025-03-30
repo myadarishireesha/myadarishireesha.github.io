@@ -24,26 +24,14 @@ Encourage transparency by providing interactive and easy-to-understand visualiza
 
 Engage researchers and data scientists in exploring crime-related insights.
 
-Data Sources
+# Data Sources
 
-The crime data used in this project is sourced from San Francisco Open Data Portal, which provides historical and real-time crime reports. The data includes:
-
-Type of crime
-
-Location (latitude & longitude)
-
-Date and time of occurrence
-
-Incident report details
-
-Additionally, external sources like FBI crime reports, census data, and socioeconomic indicators are incorporated to enhance the analysis.
-
-Crime Categories Analyzed
-
-We focus on the following ten crimes:
+The crime data used in this project is sourced from San Francisco Open Data Portal, which provides historical and real-time crime reports. 
 
 
+# Crime Categories Analyzed
 
+We focus on the following 10 crimes:
 
 
 You can find the source code for Minima at GitHub:

@@ -5,9 +5,5 @@
 layout: home
 ---
 
----
 
-# Explore My Bokeh Plots
-
-- [Bokeh Plot 1](/plot1/)
 
