@@ -25,7 +25,7 @@ This interactive **stacked bar chart** visualizes the **monthly distribution of 
 - Interactive Legend: Use the legend to toggle the visibility of specific crime categories.
 - Assault is the 2nd highest crime accured  with 1030 incidents.And it is also accured in all months and almsot all days of the week due to it's nature as crime that happens in various sistuations, such as personal disputes, conflicts in public places more likely to occur in densely populated urban areas where interpersonal interactions are frequent and  Assaults are often linked to alcohol or drug use, unemployment can lead to increased stress and conflicts, contributing to assault incidents which can occur at any time of the year or day.
 
-![Crime Plot](assets/focus_crime_overyears.png)
+![Crime Plot](assets/foucs_crime_overyears.png)
 
 ### Description of the Plot
 This plot visualizes the monthly distribution of crimes in San Francisco from 2014 to 2024. It highlights the trends and patterns for the top 5 focus crimes.
