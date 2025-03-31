@@ -14,4 +14,4 @@ Here is the first Bokeh plot:
 
 Here is the static PNG plot:
 
-<img src="/assets/images/focus_crime_overyears.png" alt="Crime Plot" width="800" style="border:1px solid #ccc; border-radius:5px;">
+<img src="/assets/focus_crime_overyears.png" alt="Crime Plot" width="800" style="border:1px solid #ccc; border-radius:5px;">
