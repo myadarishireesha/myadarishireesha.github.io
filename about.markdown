@@ -12,6 +12,8 @@ Crime analysis is essential for understanding patterns, trends, and public safet
 
 The goal of this project is to:
 
+* Understand the crime  pattern and most crime rate areas.
+
 * Educate the public about crime trends in San Francisco.
 
 * Help policymakers and law enforcement make data-informed decisions.
