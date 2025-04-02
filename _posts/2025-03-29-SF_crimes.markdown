@@ -8,7 +8,7 @@ Understanding Assualt Crime Trends  from 2003  to 2025.
 Crime is a crucial factor in urban planning and public safety. This interactive platform provides a data-driven analysis of Assualt crime patterns in San Francisco among 10 major crime categories. 
 
 # Assault Crime over years 
-<iframe src="/assets/Assault_calplot.png",frameborder="0"></iframe>
+<img src="/assets/Assault_calplot.png" alt="Assault Calendar Plot" width="1000" height="800" style="display: block;">
 
 When we take a look at the time series data for assault specificly, we see a few interesting trends.
 
@@ -17,13 +17,6 @@ Firstly, in the vast majority of the years, January 1st appears to have a high c
 Another very peculiar trend we are seeing, is the first 4.5 months of 2018; here we consistently see a significantly higher amount of assault crimes compared to both the rest of the year and the other years as well. While many events happened that year, from an [earthquake on January 4th](https://eu.usatoday.com/story/news/nation/2018/01/04/earthquake-shakes-san-francisco-area/1002768001/) to [cannabis becoming legal](https://abc7news.com/year-in-review-2018-abc7-top-stories-news-of-the/4939013/), none of these events seem to warrant the huge spike in assault crimes. We were furthermore unable to find any information on a possible police effort or increased police presence. This leads us to suspect there may be an error in or processing of the data; since 2018 was the cutoff year for the two crime data sets, perhaps there is a possibility some crimes have been double counted? However, checking our data (as seen below), there does not seem to be enough supposedly duplicate data (45 rows have been flagged as such). As such, it is diifuclt for us to determine what the cause of this spike is.
 
 Finally, we see that in general, the number of assault crime occurences seem to be dwindeling as the years progresses. This consistent with what we saw for prostitution crimes in the previous assignment. This may either be due to a genuine decrease in such crimes over the years possibly due to it becoming more difficult to do so or more socially taboo (although we would think assault generally has been seen as the same amount of taboo in recent time), or, it can be due to less policing or less reporting from civilians, the latter potentially due to less trust in the police. With our current data, it is difficult to say which of these it may be, but it is clear that something has been happening incrementially over the years.
-
-# Top 5 Focus Crimes
-
-<div style="text-align: center;">
-    <iframe src="/assets/monthly_stacked_top5.html" width="500" height="600" frameborder="0" style="display: inline-block; margin-right: 20px;"></iframe>
-    <iframe src="/assets/assault_hourly.png" width="500" height="600" frameborder="0" style="display: inline-block;"></iframe>
-</div>
 
 # Top 5 Focus Crimes
 <img src="/assets/monthly_stacked_top5.png" alt="Assault Hourly Distribution" width="500" height="600" style="display: inline-block; margin-right: 20px;">
