@@ -26,6 +26,7 @@ Finally, we see that in general, the number of assault crime occurences seem to 
 </div>
 
 # Top 5 Focus Crimes
+<img src="/assets/monthly_stacked_top5.png" alt="Assault Hourly Distribution" width="500" height="600" style="display: inline-block; margin-right: 20px;">
 <img src="/assets/assault_hourly.png" alt="Assault Hourly Distribution" width="500" height="600" style="display: inline-block; margin-right: 20px;">
 
 This interactive **stacked bar chart** visualizes the **monthly distribution of the top 5 focus crimes** in San Francisco from 2003 to 2025. Each bar represents the count of a specific crime category for a given month, with distinct colors for each category.
