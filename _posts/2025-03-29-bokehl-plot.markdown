@@ -4,14 +4,29 @@ layout: default
 permalink: /plot/
 ---
 
-# Interactive Bokeh Plot 
-
-Here is the first Bokeh plot:
-
-<iframe src="/assets/bokeh_plot_monthly.html" width="800" height="600" frameborder="0"></iframe>
-# Static PNG Plot
 Here is the static PNG plot:
 <img src="/assets/foucs_crime_overyears.png" alt="Crime Plot" width="800" style="border:1px solid #ccc; border-radius:5px;">
+When we take a look at the time series data for assault specificly, we see a few interesting trends.
 
-### Description of the Plot
-This plot visualizes the monthly distribution of crimes in San Francisco from 2014 to 2024. It highlights the trends and patterns for the top 5 focus crimes.
+# Assault Crime over years 
+<iframe src="/assets/Assault_crime.png" width="800" height="600" frameborder="0"></iframe>
+
+Firstly, in the vast majority of the years, January 1st appears to have a high count of assault crimes compared to the remainder of the year. We could speculate that this is due to New Years celebrations, but interestingly December 31st does not seem to be particularly high in assault charges, meaning they are kept to after the new year has arrived. Another big celebration day in the US is 4th of July, however, that one doesn't seem to have as strong a trend of assault crimes. This may speak to a difference in the type of celebration; the 4th of July is more often celebrated with family and is held earlier in the day compared to New Years celebrations. Another holiday that is perhaps a bit more similar in its celebrations compared to New Years, at least for young adults and particularly college students, is Halloween on the 31st of October; here we do see a spike in assault crimes on the 31st of October and 1st of November some years, however, still not as consistently as the New Years celebrations.
+
+Another very peculiar trend we are seeing, is the first 4.5 months of 2018; here we consistently see a significantly higher amount of assault crimes compared to both the rest of the year and the other years as well. While many events happened that year, from an [earthquake on January 4th](https://eu.usatoday.com/story/news/nation/2018/01/04/earthquake-shakes-san-francisco-area/1002768001/) to [cannabis becoming legal](https://abc7news.com/year-in-review-2018-abc7-top-stories-news-of-the/4939013/), none of these events seem to warrant the huge spike in assault crimes. We were furthermore unable to find any information on a possible police effort or increased police presence. This leads us to suspect there may be an error in or processing of the data; since 2018 was the cutoff year for the two crime data sets, perhaps there is a possibility some crimes have been double counted? However, checking our data (as seen below), there does not seem to be enough supposedly duplicate data (45 rows have been flagged as such). As such, it is diifuclt for us to determine what the cause of this spike is.
+
+Finally, we see that in general, the number of assault crime occurences seem to be dwindeling as the years progresses. This consistent with what we saw for prostitution crimes in the previous assignment. This may either be due to a genuine decrease in such crimes over the years possibly due to it becoming more difficult to do so or more socially taboo (although we would think assault generally has been seen as the same amount of taboo in recent time), or, it can be due to less policing or less reporting from civilians, the latter potentially due to less trust in the police. With our current data, it is difficult to say which of these it may be, but it is clear that something has been happening incrementially over the years.
+
+# Top 5 focus Crimes  
+<iframe src="/assets/bokeh_plot_monthly.html" width="800" height="600" frameborder="0"></iframe>
+<iframe src="/assets/assault_hourly.png" width="800" height="600" frameborder="0"></iframe>
+* The monthly distribution of to 5 focus crimes: Assault,Vehicle Theft, Vandalism,Drug/Narcotic,Laurency/Theft in San Francisco from 2003 to 2025 highlights the consistent nature of this crime across all months. Among all the crimes, LARCENY/THEFT is the most accured crime.The highest Laurecy crime in June due to public activity, tourism, while the absence of this crime in December due to seasonal changes.
+Drug crime is on the 5th place, where these incidets are aoccured with seasonality from April to December.
+As From January to March corresponds to winter seaosn and mostly people avoide outdoor activities and community driven events explains th eabsesnce of this crime. 
+* Assault is the 2nd highest crime accured  with 1030 incidents. And it is also accured in all months and almsot all days of the week due to it's nature as crime that happens in various sistuations, such as personal disputes, conflicts in public places likely to occur in densely populated urban areas where interpersonal interactions are frequent. This explains why the crime occuring in all months.
+* Assaults are often linked to alcohol or drug use, which can occur at any time of the year or day. Economic hardships or unemployment can lead to increased stress and conflicts, contributing to assault incidents.
+* From the hourly distribution analysis of assult crimes it accured almost all the day except eearly morning hours.This coulbe due to the transition period when people just wake up and travel to work and doing morning activities. The assault crime recorded high at afternoon 12 and from evening to midnight recored hihest may be due to alchahol consumption etc.
+
+ 
+ To conclude, Unlike other crimes that show seasonal trends, assault is influenced by human behavior, social interactions, and environmental factors. Addressing the root causes, such as alcohol abuse, economic stress, and interpersonal conflicts, can help reduce the frequency of assault crimes and improve public safety.
+
