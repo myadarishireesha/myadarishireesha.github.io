@@ -1,15 +1,23 @@
 ---
-title: "Bokeh Plot"
+title: "Welcome to SF crime Trends from 2003 to 2025"
 layout: default
 permalink: /plot/
 ---
+Understanding Crime Trends  from 2003  to 2025.
 
+Crime is a crucial factor in urban planning and public safety. This interactive platform provides a data-driven analysis of crime patterns in San Francisco, covering 10 major crime categories from 2003 to 2025.
+Focus crimes are: Wepon Laws,Prostitution, Robbery, Burglary, Assault, Drunkenness, Drug/narcotic, Trespass, Larceny/theft, Vandalism, Vehicle theft, Stolen property. 
+<img src="/assets/10_focus_cimes.png" alt="Crime Plot" width="500" style="border:1px solid #ccc; border-radius:5px;">
+Lets dee the patterns and mOre details into Assualt crime. 
+
+### Description of the Plot
+This plot visualizes the monthly distribution of crimes in San Francisco from 2014 to 2024. It highlights the trends and patterns for the top 5 focus crimes.
 Here is the static PNG plot:
-<img src="/assets/foucs_crime_overyears.png" alt="Crime Plot" width="800" style="border:1px solid #ccc; border-radius:5px;">
+<img src="/assets/foucs_crime_overyears.png" alt="Crime Plot" width="500" style="border:1px solid #ccc; border-radius:5px;">
 When we take a look at the time series data for assault specificly, we see a few interesting trends.
 
 # Assault Crime over years 
-<iframe src="/assets/Assault_crime.png" width="800" height="600" frameborder="0"></iframe>
+<iframe src="/assets/Assault_crime.png" width="500" height="500" frameborder="0"></iframe>
 
 Firstly, in the vast majority of the years, January 1st appears to have a high count of assault crimes compared to the remainder of the year. We could speculate that this is due to New Years celebrations, but interestingly December 31st does not seem to be particularly high in assault charges, meaning they are kept to after the new year has arrived. Another big celebration day in the US is 4th of July, however, that one doesn't seem to have as strong a trend of assault crimes. This may speak to a difference in the type of celebration; the 4th of July is more often celebrated with family and is held earlier in the day compared to New Years celebrations. Another holiday that is perhaps a bit more similar in its celebrations compared to New Years, at least for young adults and particularly college students, is Halloween on the 31st of October; here we do see a spike in assault crimes on the 31st of October and 1st of November some years, however, still not as consistently as the New Years celebrations.
 
@@ -17,9 +25,15 @@ Another very peculiar trend we are seeing, is the first 4.5 months of 2018; here
 
 Finally, we see that in general, the number of assault crime occurences seem to be dwindeling as the years progresses. This consistent with what we saw for prostitution crimes in the previous assignment. This may either be due to a genuine decrease in such crimes over the years possibly due to it becoming more difficult to do so or more socially taboo (although we would think assault generally has been seen as the same amount of taboo in recent time), or, it can be due to less policing or less reporting from civilians, the latter potentially due to less trust in the police. With our current data, it is difficult to say which of these it may be, but it is clear that something has been happening incrementially over the years.
 
-# Top 5 focus Crimes  
-<iframe src="/assets/bokeh_plot_monthly.html" width="800" height="600" frameborder="0"></iframe>
-<iframe src="/assets/assault_hourly.png" width="800" height="600" frameborder="0"></iframe>
+# Top 5 Focus Crimes
+
+<div style="text-align: center;">
+    <iframe src="/assets/bokeh_plot_monthly.html" width="500" height="600" frameborder="0" style="display: inline-block; margin-right: 20px;"></iframe>
+    <iframe src="/assets/assault_hourly.png" width="500" height="600" frameborder="0" style="display: inline-block;"></iframe>
+</div>
+
+This interactive **stacked bar chart** visualizes the **monthly distribution of the top 5 focus crimes** in San Francisco from 2014 to 2024. Each bar represents the count of a specific crime category for a given month, with distinct colors for each category.
+
 * The monthly distribution of to 5 focus crimes: Assault,Vehicle Theft, Vandalism,Drug/Narcotic,Laurency/Theft in San Francisco from 2003 to 2025 highlights the consistent nature of this crime across all months. Among all the crimes, LARCENY/THEFT is the most accured crime.The highest Laurecy crime in June due to public activity, tourism, while the absence of this crime in December due to seasonal changes.
 Drug crime is on the 5th place, where these incidets are aoccured with seasonality from April to December.
 As From January to March corresponds to winter seaosn and mostly people avoide outdoor activities and community driven events explains th eabsesnce of this crime. 
