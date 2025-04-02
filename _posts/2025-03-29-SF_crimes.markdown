@@ -25,7 +25,10 @@ Finally, we see that in general, the number of assault crime occurences seem to 
     <iframe src="/assets/assault_hourly.png" width="500" height="600" frameborder="0" style="display: inline-block;"></iframe>
 </div>
 
-This interactive **stacked bar chart** visualizes the **monthly distribution of the top 5 focus crimes** in San Francisco from 2014 to 2024. Each bar represents the count of a specific crime category for a given month, with distinct colors for each category.
+# Top 5 Focus Crimes
+<img src="/assets/assault_hourly.png" alt="Assault Hourly Distribution" width="500" height="600" style="display: inline-block; margin-right: 20px;">
+
+This interactive **stacked bar chart** visualizes the **monthly distribution of the top 5 focus crimes** in San Francisco from 2003 to 2025. Each bar represents the count of a specific crime category for a given month, with distinct colors for each category.
 
 * The monthly distribution of to 5 focus crimes: Assault,Vehicle Theft, Vandalism,Drug/Narcotic,Laurency/Theft in San Francisco from 2003 to 2025 highlights the consistent nature of this crime across all months. Among all the crimes, LARCENY/THEFT is the most accured crime.The highest Laurecy crime in June due to public activity, tourism, while the absence of this crime in December due to seasonal changes.
 Drug crime is on the 5th place, where these incidets are aoccured with seasonality from April to December.

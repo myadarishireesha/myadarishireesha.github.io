@@ -18,13 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Website Created by Group 9
+title: Website Created by Group 12
 email: dsmyadari@gmail.com
 twitter_username: jekyllrb
 github_username:  myadarishireesha
 linkedin_username: shireeshamyadari
 description: >- # this means to ignore newlines until "baseurl:"
-  A website created by group 9 for the purpose of learning
+  A website created by group 12 for the purpose of learning
   Jekyll and GitHub Pages. This is a sample website to demonstrate
   the capabilities of Jekyll and GitHub Pages
 baseurl: "" # the subpath of your site, e.g. /blog
