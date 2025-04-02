@@ -8,7 +8,7 @@ Understanding Assualt Crime Trends  from 2003  to 2025.
 Crime is a crucial factor in urban planning and public safety. This interactive platform provides a data-driven analysis of Assualt crime patterns in San Francisco among 10 major crime categories. 
 
 # Assault Crime over years 
-<iframe src="/assets/Assault_crime.png" width="600" height="300" frameborder="0"></iframe>
+<iframe src="/assets/Assault_calplot.png",frameborder="0"></iframe>
 
 When we take a look at the time series data for assault specificly, we see a few interesting trends.
 
@@ -21,7 +21,7 @@ Finally, we see that in general, the number of assault crime occurences seem to 
 # Top 5 Focus Crimes
 
 <div style="text-align: center;">
-    <iframe src="/assets/bokeh_plot_monthly.html" width="500" height="600" frameborder="0" style="display: inline-block; margin-right: 20px;"></iframe>
+    <iframe src="/assets/monthly_stacked_top5.html" width="500" height="600" frameborder="0" style="display: inline-block; margin-right: 20px;"></iframe>
     <iframe src="/assets/assault_hourly.png" width="500" height="600" frameborder="0" style="display: inline-block;"></iframe>
 </div>
 
