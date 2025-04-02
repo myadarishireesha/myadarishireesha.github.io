@@ -3,21 +3,14 @@ title: "Welcome to SF crime Trends from 2003 to 2025"
 layout: default
 permalink: /plot/
 ---
-Understanding Crime Trends  from 2003  to 2025.
+Understanding Assualt Crime Trends  from 2003  to 2025.
 
-Crime is a crucial factor in urban planning and public safety. This interactive platform provides a data-driven analysis of crime patterns in San Francisco, covering 10 major crime categories from 2003 to 2025.
-Focus crimes are: Wepon Laws,Prostitution, Robbery, Burglary, Assault, Drunkenness, Drug/narcotic, Trespass, Larceny/theft, Vandalism, Vehicle theft, Stolen property. 
-<img src="/assets/10_focus_cimes.png" alt="Crime Plot" width="500" style="border:1px solid #ccc; border-radius:5px;">
-Lets dee the patterns and mOre details into Assualt crime. 
-
-### Description of the Plot
-This plot visualizes the monthly distribution of crimes in San Francisco from 2014 to 2024. It highlights the trends and patterns for the top 5 focus crimes.
-Here is the static PNG plot:
-<img src="/assets/foucs_crime_overyears.png" alt="Crime Plot" width="500" style="border:1px solid #ccc; border-radius:5px;">
-When we take a look at the time series data for assault specificly, we see a few interesting trends.
+Crime is a crucial factor in urban planning and public safety. This interactive platform provides a data-driven analysis of Assualt crime patterns in San Francisco among 10 major crime categories. 
 
 # Assault Crime over years 
-<iframe src="/assets/Assault_crime.png" width="500" height="500" frameborder="0"></iframe>
+<iframe src="/assets/Assault_crime.png" width="600" height="300" frameborder="0"></iframe>
+
+When we take a look at the time series data for assault specificly, we see a few interesting trends.
 
 Firstly, in the vast majority of the years, January 1st appears to have a high count of assault crimes compared to the remainder of the year. We could speculate that this is due to New Years celebrations, but interestingly December 31st does not seem to be particularly high in assault charges, meaning they are kept to after the new year has arrived. Another big celebration day in the US is 4th of July, however, that one doesn't seem to have as strong a trend of assault crimes. This may speak to a difference in the type of celebration; the 4th of July is more often celebrated with family and is held earlier in the day compared to New Years celebrations. Another holiday that is perhaps a bit more similar in its celebrations compared to New Years, at least for young adults and particularly college students, is Halloween on the 31st of October; here we do see a spike in assault crimes on the 31st of October and 1st of November some years, however, still not as consistently as the New Years celebrations.
 

@@ -26,13 +26,11 @@ The goal of this project is to:
 
 The crime data used in this project is sourced from [San Francisco Open Data Portal](https://datasf.org/opendata/), which provides historical and real-time crime reports. 
 
-
-
-
 # Crime Categories Analyzed
 
 We focus on the following 10 crimes:
 Wepon Laws,Prostitution, Robbery, Burglary, Assault, Drunkenness, Drug/narcotic, Trespass, Larceny/theft, Vandalism, Vehicle theft, Stolen property.
+<img src="/assets/10_focus_crimes.png" alt="Crime Plot" width="500" style="border:1px solid #ccc; border-radius:5px;">
 
 
 <!--You can find the source code for Minima at GitHub:
