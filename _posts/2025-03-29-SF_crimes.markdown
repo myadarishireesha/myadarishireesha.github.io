@@ -8,7 +8,7 @@ Understanding Assualt Crime Trends  from 2003  to 2025.
 Crime is a crucial factor in urban planning and public safety. This interactive platform provides a data-driven analysis of Assualt crime patterns in San Francisco among 10 major crime categories. 
 
 # Assault Crime over years 
-<img src="/assets/Assault_calplot.png" alt="Assault Calendar Plot" width="1000" height="800" style="display: block;">
+<img src="/assets/Assault_calplot.png" alt="Assault Calendar Plot" width="400" height="800" style="display: block;">
 
 When we take a look at the time series data for assault specificly, we see a few interesting trends.
 
@@ -19,7 +19,6 @@ Another very peculiar trend we are seeing, is the first 4.5 months of 2018; here
 Finally, we see that in general, the number of assault crime occurences seem to be dwindeling as the years progresses. This consistent with what we saw for prostitution crimes in the previous assignment. This may either be due to a genuine decrease in such crimes over the years possibly due to it becoming more difficult to do so or more socially taboo (although we would think assault generally has been seen as the same amount of taboo in recent time), or, it can be due to less policing or less reporting from civilians, the latter potentially due to less trust in the police. With our current data, it is difficult to say which of these it may be, but it is clear that something has been happening incrementially over the years.
 
 # Top 5 Focus Crimes
-<img src="/assets/monthly_stacked_top5.png" alt="Assault Hourly Distribution" width="500" height="600" style="display: inline-block; margin-right: 20px;">
 <img src="/assets/assault_hourly.png" alt="Assault Hourly Distribution" width="500" height="600" style="display: inline-block; margin-right: 20px;">
 
 This interactive **stacked bar chart** visualizes the **monthly distribution of the top 5 focus crimes** in San Francisco from 2003 to 2025. Each bar represents the count of a specific crime category for a given month, with distinct colors for each category.
