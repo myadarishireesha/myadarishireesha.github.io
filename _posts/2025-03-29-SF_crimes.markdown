@@ -25,8 +25,8 @@ Finally, we see that in general, the number of assault crime occurences seem to 
         style="border:none; overflow:hidden;"
         loading="lazy">
 </iframe>
-<iframe src="/assets/polar.png" width="900" height="500" style="border:none;"></iframe>
 
+<img src="/assets/polar.png" alt="Crime Plot" width="800" style="border:1px solid #ccc; border-radius:5px;">
 
 This interactive **stacked bar chart** visualizes the **monthly distribution of the top 5 focus crimes** in San Francisco from 2003 to 2025. Each bar represents the count of a specific crime category for a given month, with distinct colors for each category.
 
