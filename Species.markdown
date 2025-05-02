@@ -10,4 +10,4 @@ nav_order: 1
 
 ## About the Species (Motivation for choosing, etc.)
 
-Lorem ipsum dolor sit amet...
+Lorem ipsum dolor sit amet... added 
