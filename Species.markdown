@@ -1,4 +1,9 @@
-<p style="font-size: 1.6em; margin-top: 1em;"><strong>Canada Goose</strong></p>
+---
+layout: page
+title: Canada Goose
+permalink: /Species/
+
+---
 <p style="font-size: 1.3em; margin-top: 1em;"><strong>Introduction and Motivation</strong></p>
 <table>
 <tr>
