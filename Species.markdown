@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 ## Canada Goose
 <table>
 <tr>
@@ -11,14 +15,14 @@ The Canada Goose (*Branta canadensis*) is a familiar sight across North America,
 
 </td>
 <td width="40%" valign="top">
-<img src="/assets/canada_goose.png" alt="Canada Goose" width="100%">
+<img src="//assets//canada_goose.jpg" alt="Canada Goose" width="100%">
 </td>
 </tr>
 </table>
 
 
 
-## Wood Duck (04)
+## Overal Geographycal Data
 <table>
 <tr>
 <td width="40%" valign="top">
