@@ -1,18 +1,52 @@
-## Canada Goose
-<!-- Canada Goose Section -->
-<div style="display: flex; gap: 20px; align-items: flex-start; margin-top: 2em;">
-  <div style="flex: 1;">
-    <h3 style="margin-top: 0;">Canada Goose</h3>
-    <p>
-      The Canada Goose (<em>Branta canadensis</em>) is a familiar sight across North America, recognized by its black head and neck, white chinstrap, and brown body.
-    </p>
-    <p>
-      <strong>Fun Fact:</strong> It can have up to 25,000 feathers, sleeps with one eye open, and flies as high as 29,000 feet!
-    </p>
-  </div>
-  <div style="flex: 1;">
-    <img src="/assets/canada_goose.jpg" alt="Canada Goose" style="width: 100%; border: none;">
-  </div>
-</div>
+<p style="font-size: 1.6em; margin-top: 1em;"><strong>Canada Goose</strong></p>
+<p style="font-size: 1.3em; margin-top: 1em;"><strong>Introduction and Motivation</strong></p>
+<table>
+<tr>
+<td width="60%" valign="top">
+The Canada Goose (*Branta canadensis*) is a familiar sight across North America, recognized by its black head and neck, white chinstrap, and brown body. It can have up to 25,000 feathers. The intresting fact about this is it can sleep with one eye open and they can fly as high as 29,000 feet.
+</td>
+<td width="40%" valign="top">
+<img src="/assets/canada_goose.jpg" alt="Canada Goose" width="100%">
+</td>
+</tr>
+</table>
 
 
+
+
+## Overal Geographycal Data
+<table>
+<tr>
+<td width="40%" valign="top">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Wood_Duck.jpg" alt="Wood Duck" width="100%">
+</td>
+
+<td width="60%" valign="top">  
+The Wood Duck (*Aix sponsa*) is one of North America's most colorful waterfowl, nesting in trees and thriving in wooded wetlands.
+- Ducklings jump from tree nests.
+- Males have iridescent feathers.
+- Wood Ducks are a conservation success story.
+
+</td>
+</tr>
+</table>
+
+## Temporal Changes between 1970s  and 2010s.
+<table>
+<tr>
+<td width="40%" valign="top">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Wood_Duck.jpg" alt="Wood Duck" width="100%">
+</td>
+<td width="60%" valign="top">
+
+The Wood Duck (*Aix sponsa*) is one of North America's most colorful waterfowl, nesting in trees and thriving in wooded wetlands.
+- Ducklings jump from tree nests.
+- Males have iridescent feathers.
+- Wood Ducks are a conservation success story.
+
+</td>
+</tr>
+</table>
+
+## Summary 
+ldjlskldoweufobjnx c.xcv mxv .xcv,skcflivm,x cmxc ,sdc  s
