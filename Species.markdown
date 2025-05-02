@@ -1,13 +1,41 @@
+## Canada Goose (02)
+<table>
+<tr>
+<td width="60%" valign="top">
+
+**Intro:**  
+The Canada Goose (*Branta canadensis*) is a familiar sight across North America, recognized by its black head and neck, white chinstrap, and brown body.
+
+**Interesting Facts:**
+- A Canada Goose can have up to 25,000 feathers.
+- They sleep with one eye open.
+- They can fly as high as 29,000 feet.
+
+</td>
+<td width="40%" valign="top">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Canada_goose.jpg" alt="Canada Goose" width="100%">
+</td>
+</tr>
+</table>
+
 ---
-layout: default
-title: Species 1
-nav_order: 1
----
 
-{% include navigation.html %}
+## Wood Duck (04)
+<table>
+<tr>
+<td width="60%" valign="top">
 
-# Species 1
+**Intro:**  
+The Wood Duck (*Aix sponsa*) is one of North America's most colorful waterfowl, nesting in trees and thriving in wooded wetlands.
 
-## About the Species (Motivation for choosing, etc.)
+**Interesting Facts:**
+- Ducklings jump from tree nests.
+- Males have iridescent feathers.
+- Wood Ducks are a conservation success story.
 
-Lorem ipsum dolor sit amet... added 
+</td>
+<td width="40%" valign="top">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Wood_Duck.jpg" alt="Wood Duck" width="100%">
+</td>
+</tr>
+</table>
