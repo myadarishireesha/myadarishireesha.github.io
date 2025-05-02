@@ -1,6 +1,5 @@
-
-## Canada Goose
-## Introduction and Motivation 
+<p style="font-size: 1.6em; margin-top: 1em;"><strong>Canada Goose</strong></p>
+<p style="font-size: 1.3em; margin-top: 1em;"><strong>Introduction and Motivation</strong></p>
 <table>
 <tr>
 <td width="60%" valign="top">
