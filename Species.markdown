@@ -21,7 +21,7 @@ permalink: /Species/
 <table style="border: none; border-collapse: collapse; width: 100%;">
   <tr style="border: none;">
     <td width="55%" valign="top" style="border: none; padding: 0;">
-      <iframe src="/assets/wood_duck_banding_map.html" width="100%" height="450" frameborder="0"></iframe>
+      <iframe src="/assets/wood_duck_banding_map copy.html" width="100%" height="450" frameborder="0"></iframe>
     </td>
     <td width="45%" valign="top" style="border: none; padding: 0;">
       The Canada Goose (<em>Branta canadensis</em>) is a familiar sight across North America, recognized by its black head and neck, white chinstrap, and brown body. It can have up to 25,000 feathers. The interesting fact about this is it can sleep with one eye open and they can fly as high as 29,000 feet.
